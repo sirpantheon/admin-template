@@ -9,6 +9,7 @@ export default function Conteudo(props:ConteudoProps){
             flex flex-col mt-7
         `}>
             {props.children}
+            <h1>conteudo</h1>
         </div>
     )
 }

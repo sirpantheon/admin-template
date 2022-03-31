@@ -3,6 +3,7 @@ module.exports = {
     './src/pages/**/*.tsx',
     './src/components/**/*.tsx'
   ],
+  darkMode: 'class',
   theme: {
     extend: {},
   },
